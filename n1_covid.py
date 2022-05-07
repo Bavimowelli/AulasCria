@@ -5,6 +5,10 @@ Confirmed[7],Deaths[8]
 2. Explorar dados
 3. Responder questões de pesquisa
 4. Responder questões gráficamente
+
+1 - Quantas pessoas morreram na Albania?
+2 - Quantas pessoas morreram na Australia?
+3 - Quantas pessoas morreram na Belgica(Belgium)?
 """
 import os
 import matplotlib.pyplot as plt
